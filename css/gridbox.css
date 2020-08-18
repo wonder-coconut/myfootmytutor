@@ -1,0 +1,4 @@
+.grid-contain   {display: grid;
+                grid-template-columns: auto auto auto auto;
+                border-color: white;
+                border-style: solid;}

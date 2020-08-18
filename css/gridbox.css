@@ -9,7 +9,8 @@
                 border-color: white;
                 border-style: none;}
 
-div.photo       {border-color: white;
+div.photo       {position: relative;
+                border-color: white;
                 border-style: none;
                 padding: 0 0 0 0;}
 
